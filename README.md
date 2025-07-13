@@ -1,0 +1,3 @@
+ As shown in Fig. 1, the MST-AK method mainly consists of the pre-training weights of the ResNet-34 network, the CLIP-based descriptive cue textual knowledge module of the land cover type, the image-text channel attention and image-text spatial attention based feature extraction module, the difference change feature fusion representation module, the three-branch interactive spatio-temporal association module, image-text change difference-based loss function computation module, three-branch change difference-based loss function computation module, and change magnitude-based adaptive threshold selection method.
+![1](https://github.com/user-attachments/assets/4deee026-f51a-4983-89b0-1898b1540982)
+Fig. 1. Framework of the MST-AK method
